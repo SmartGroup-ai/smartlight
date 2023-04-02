@@ -316,7 +316,13 @@
     min-height: 784px;
   }
 
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: 31px;
+  }
+
   .u-section-2 .u-text-2 {
+    margin-top: 29px;
     margin-right: 0;
   }
 
